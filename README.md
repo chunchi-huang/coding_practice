@@ -1,1 +1,3 @@
-# coding_practice
+#Chun-Chi's coding practice
+
+1. Two Sum
