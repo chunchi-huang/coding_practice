@@ -6,4 +6,5 @@
 4. Container With Most Water
 5. Add Two Numbers
 6. Merge Two Sorted Lists
+7. Longest Palindromic Substring
 
