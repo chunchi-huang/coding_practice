@@ -8,4 +8,5 @@
 6. Merge Two Sorted Lists
 7. Longest Palindromic Substring
 8. Maximum Subarray
+9. Validate Binary Search Tree
 
