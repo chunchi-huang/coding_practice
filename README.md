@@ -9,4 +9,5 @@
 7. Longest Palindromic Substring
 8. Maximum Subarray
 9. Validate Binary Search Tree
+10. Symmetric Tree
 
