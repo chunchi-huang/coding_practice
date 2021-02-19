@@ -8,6 +8,7 @@
                 "-g",
                 "${file}",
                 "-std=c++11",
+                "-Wc++11-extensions",
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}"
             ],
