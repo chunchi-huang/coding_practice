@@ -18,5 +18,6 @@
 16. Min Stack
 17. Binary Tree Level Order Traversal
 18. Binary Tree Zigzag Level Order Traversal
+19. Reverse Linked List
 
 
