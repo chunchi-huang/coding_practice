@@ -21,5 +21,6 @@
 19. Reverse Linked List
 20. Merge k Sorted Lists
 21. First Unique Character in a String
+22. Valid Parentheses
 
 
