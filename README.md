@@ -25,5 +25,6 @@
 23. Best Time to Buy and Sell Stock
 24. Word Break
 25. Implement strStr
+26. Missing Number
 
 
