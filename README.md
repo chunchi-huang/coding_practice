@@ -30,5 +30,6 @@
 28. Word Ladder II
 29. Robot Bounded In Circle
 30. Pairs of Songs With Total Durations Divisible by 60
+31. Partition Labels
 
 
