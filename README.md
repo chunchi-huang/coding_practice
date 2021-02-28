@@ -33,5 +33,6 @@
 31. Partition Labels
 32. Analyze User Website Visit Pattern
 33. Number of islands
+34. Minimum Difficulty of a Job Schedule
 
 
