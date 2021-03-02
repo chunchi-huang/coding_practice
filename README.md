@@ -34,5 +34,5 @@
 32. Analyze User Website Visit Pattern
 33. Number of islands
 34. Minimum Difficulty of a Job Schedule
-
+35. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts
 
