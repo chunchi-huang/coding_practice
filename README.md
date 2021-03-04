@@ -36,4 +36,5 @@
 34. Minimum Difficulty of a Job Schedule
 35. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts
 36. Critical Connections in a Network
+37. Largest Sum of Averages
 
