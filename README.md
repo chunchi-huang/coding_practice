@@ -38,4 +38,5 @@
 36. Critical Connections in a Network (DFS)
 37. Largest Sum of Averages (DP)
 38. Number of Provinces (DFS)
+39. Reorder Data in Log Files
 
