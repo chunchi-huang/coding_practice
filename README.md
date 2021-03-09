@@ -41,4 +41,5 @@
 39. Reorder Data in Log Files
 40. Number of Connected Components in an Undirected Graph (DFS)
 41. Course Schedule II (DFS)
+42. Lowest Common Ancestor of a Binary Tree
 
