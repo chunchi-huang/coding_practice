@@ -34,7 +34,7 @@ int main() {
     if (output == ans)
         cout << "Correct! The answer is " << output << endl;
     else {
-        cout << "Correct! The answer should be " << ans << endl;
+        cout << "Wrong! The answer should be " << ans << endl;
         cout << "But the output is " << output << endl;
     }
 }
