@@ -27,6 +27,26 @@ void bandwidthAnalysis(vector<videoStream> streams) {
     cout << endl;
 }
 
+void bandwidthAnalysis2(vector<videoStream> streams) {
+
+    unordered_map<int,int> delta;
+    vector<int> ans;
+
+    int max_time = 0, bandwidth = 0;
+
+    for (auto stream:streams) {
+        delta[stream.start] += stream.bandwidth;
+        delta[stream.start + stream.duration] += -1*stream.bandwidth;
+        max_time = max((stream.start + stream.duration), max_time);
+    }
+
+    for (int i = 0; i < max_time; ++i ) {
+        bandwidth += delta[i]; 
+        cout << bandwidth << " ";
+    }
+    cout << endl;
+}
+
 int main()
 {
     vector<videoStream> streams = {
@@ -38,4 +58,5 @@ int main()
         {7, 1, 40}};
 
     bandwidthAnalysis(streams);
+    bandwidthAnalysis2(streams);
 }
