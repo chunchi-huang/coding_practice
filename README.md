@@ -45,7 +45,7 @@
 43. Subtree of Another Tree
 44. Maximal Square (DP)
 45. Prison Cells After N Days
-46. Top K Frequent Words
+46. Top K Frequent Words (Priority Queue)
 47. Trapping Rain Water (DP)
 48. Intersection
 49. Bandwidth Analysis
